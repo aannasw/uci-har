@@ -12,7 +12,7 @@ As a starting point for the use of data wrangling functions in R, the Johns Hopk
 3. Merges the `train` and `test` datasets each of which contain a set of `x_`, `y_` and `subject_` data files
 4. Assigns the appropriate column headers to all imported files
 5. Matches up the activity descriptions with the activity numbers used in the `y_` data file
-6. Of the 561 available columns, extract only the ones that contain *mean* `mean()` or *standard deviation* `std()` in the column name
+6. Of the 561 available columns, extract only the ones that contain `mean()` or `std()` in the column name
 7. Tidy up the dataset, i.e. normalize as much as possible *and*
 8. Create another smaller dataset with the average measurement when grouped by the subject identifier, the activity and the measured variable.
 
