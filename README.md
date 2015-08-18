@@ -26,5 +26,3 @@ Finally, the `run_analysis.R` file, the datasets and a Readme file all go up on 
 - Solution dataset #1 in long format (normalized) - `HAR_tidy_dataset.txt`
 - Solution dataset #2 with summary by subject, activity and measurement - `HAR_summary.txt`
 - `\data\UCI HAR dataset\` with all the source files
-
-*... more to come*
